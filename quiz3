@@ -1,0 +1,16 @@
+# quiz-individu-3
+1. tutorial instal flowgorithm
+a. search flowgorithm.org lalu download dan pilih yang sesuai dengan type system komputer yang digunakan seperti 64-bit for windows 10 & 8.
+b. lalu simpan berkas
+c. buka berkas di file manager, extract berkas karena masih type ZIP dan pindahkan ke folder kosong, lalu buka folder tersebut
+klik berkas dan extract to pilih folder kosong tadi.
+d. buka folder tadi dan klik setup. Selesai.
+
+2. tutorial membuat hello world di flowgorithm
+a. buka aplikasi yang sudah di instal
+b. tampilan awal ada main dan end
+c. pencet tanda panah sampai berubah jadi orens dan keluar banyak plihan, dan klik output.
+d. tambahkan kalimat di output "hello world"
+e. klik run di pojok kiri atas dan keluarlah output hello world
+f. bisa juga klik source code, untuk melihat hello world menggunakan bahasa pemrograman lainnya.
+
